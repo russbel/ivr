@@ -1,0 +1,5 @@
+﻿APP,FECHA,DNI,TIPO,ESTADO,RUTAARCHIVO,NROPOLIZA,RAMO,PRODUCTO
+GW,23/04/2019,09388903,1,S,D:\Pacifico_Hundred_DescargaPolizas\DescargaPolizas\Temporal\PDF\Póliza SOAT Tradicional-2003081701.pdf,2003081701,Autos,SOAT
+GW,23/04/2019,09388903,1,S,D:\Pacifico_Hundred_DescargaPolizas\DescargaPolizas\Temporal\PDF\Póliza Auto Modular-2002100853.pdf,2002100853,Autos,MODULAR (OTROS CANALES)
+GW,23/04/2019,09388903,1,S,D:\Pacifico_Hundred_DescargaPolizas\DescargaPolizas\Temporal\PDF\Convenio de Pago_Auto Modular_2002100853.pdf,2002100853,Autos,MODULAR (OTROS CANALES)
+WS,23/04/2019,09388903,1,S,D:\Pacifico_Hundred_DescargaPolizas\DescargaPolizas\Temporal\PDF\Póliza VIVA SEGURO 601875020.pdf,601875020,Accidentes Personales,VIVA SEGURO AGENCIAS

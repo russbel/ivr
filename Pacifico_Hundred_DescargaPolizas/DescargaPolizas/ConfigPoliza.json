@@ -1,0 +1,46 @@
+{	
+
+	"folder_input"		:"\\\\pps-nas03\\users-inf\\RPA_IVR_PACFIICO\\INPUT_IVR\\DOCUMENTOS_KONECTA",
+	"folder_input2"		:"\\\\pps-nas03\\users-inf\\RPA-HUNDRED\\RUTA SFTP\\tipo 2", 
+	"folder_prod"		:"\\\\pps-nas03\\users-inf\\RPA-HUNDRED\\TEMP\\TablaProducto.xlsx",
+	"folder_temp"		:"D:\\Pacifico_Hundred_DescargaPolizas\\DescargaPolizas\\Temporal",
+	"folder_dni"		:"D:\\Pacifico_Hundred_DescargaPolizas\\DescargaPolizas\\Temporal\\DNI",
+	"folder_descarga"	:"D:\\Pacifico_Hundred_DescargaPolizas\\DescargaPolizas\\Temporal\\PDF",
+	"folder_error"		:"D:\\Pacifico_Hundred_DescargaPolizas\\DescargaPolizas\\Temporal\\ERROR",
+
+	"folder_konectadni"	:"KonectaDNI",
+	
+	"file_crm"		:"ListaArchivosCRM.csv",
+	"file_kibana"		:"DatosKibana.csv",
+
+	"ax_url"		:"http://psoasprd0200/forms/frmservlet?config=javawebutil",	
+	"ax_user"		:"USER_AX",	
+
+
+	"crm_url"		:"C:\\Users\\URIGAU06.PDCVIDA\\Desktop\\RightNow (pacifico).appref-ms",	
+	"crm_user"		:"USER_CRM",	
+
+
+	"esic_url"		:"https://esic/esic/",	
+	"esic_user"		:"USER_ES",	
+
+
+	"gw_bc_url"		:"https://appagwprd0100.pps.com.pe/bc",
+	"gw_bc_user"		:"USER_BC",	
+
+
+	"gw_pc_url"		:"https://appagwprd0100.pps.com.pe/pc",
+	"gw_pc_user"		:"USER_PC",
+
+
+	"ws_url"		:"https://pvida71/WebSID/",
+	"ws_user"		:"USER_WS",
+
+
+	"email_server"		:"192.168.110.15",
+	"email_port"		:"25",
+	"email_to"		:"russbel.cabello@hundred.com.pe,erasmo.boluarte@hundred.com.pe",
+	"email_subject"		:"Asunto", 
+	"email_from"		:"correo_robot@pacifico.com.pe",
+	"email_name"		:"Robot IVR"
+}
